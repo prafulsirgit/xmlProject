@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Documents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="document.xsd">
+  <Document>
+    <Title>Introduction to XML</Title>
+    <Author>Praful Nayak</Author>
+    <Content>This is a basic introduction to XML.</Content>
+    <DateCreated>2024-07-01</DateCreated>
+  </Document>
+  <Document>
+    <Title>Advanced XML Techniques</Title>
+    <Author>Shashank Lambat</Author>
+    <Content>Exploring advanced XML features and techniques.</Content>
+    <DateCreated>2024-07-02</DateCreated>
+  </Document>
+  <Document>
+    <Title>XML Schema Design</Title>
+    <Author>Hemangi Kayarkar</Author>
+    <Content>An in-depth guide to designing XML schemas for robust data validation.</Content>
+    <DateCreated>2024-07-03</DateCreated>
+</Document>
+<Document>
+    <Title>XML and Web Services</Title>
+    <Author>Payal Chapre</Author>
+    <Content>Understanding how XML is used in web services for data exchange and integration.</Content>
+    <DateCreated>2024-07-04</DateCreated>
+</Document>
+
+</Documents>
